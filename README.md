@@ -16,7 +16,6 @@ explorar novas técnicas na criação de um personagem em 3D.
 * Baking de textura a partir de Vertex Paint
 * Baking de textura e Normal/Bump Map a partir de outros objetos 
 * Rigging
-* Simulação de Colisão e Cloth (tecido)
 
 <h2>Técnicas Ainda a Serem Implementadas: </h2>
 
@@ -25,4 +24,5 @@ explorar novas técnicas na criação de um personagem em 3D.
 
 <h2>Técnicas Exploradas Porém Descartadas: </h2>
 
+* Simulação de Colisão e Cloth (tecido)
 * Sewing (costura) para simulação de Cloth
